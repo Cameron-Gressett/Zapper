@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapperWeb", "ZapperWeb\ZapperWeb.csproj", "{6E6EB34F-6185-47EF-8842-D584EB4AC188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{E3E93485-B299-48C7-A4AB-8C14656867C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6EB34F-6185-47EF-8842-D584EB4AC188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6EB34F-6185-47EF-8842-D584EB4AC188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6EB34F-6185-47EF-8842-D584EB4AC188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6EB34F-6185-47EF-8842-D584EB4AC188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E93485-B299-48C7-A4AB-8C14656867C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E93485-B299-48C7-A4AB-8C14656867C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E93485-B299-48C7-A4AB-8C14656867C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E93485-B299-48C7-A4AB-8C14656867C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4374BF5-A335-48E1-BB32-91050049B04E}
+	EndGlobalSection
+EndGlobal

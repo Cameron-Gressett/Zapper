@@ -1,4 +1,5 @@
 ﻿using DomainModel.CAST;
+using DomainModel.HelperClasses;
 using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Bson.Serialization.IdGenerators;
 using System;
@@ -7,7 +8,7 @@ using System.Text;
 
 namespace DomainModel.Tickets
 {
-    public class TicketDataModel : ICASTDataModel
+    public class TicketDataModel : IDataModel
     {
         /// <summary>
         /// Unique identifier for the device record
